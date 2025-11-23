@@ -1,7 +1,7 @@
 # Assignment Files Overview
 
 ### **Q1 – Special Cipher (Caesar + RLE)**
-**File:** `specialCipher.cpp`  
+**File:** `specialCipher.js`  
 Implements Caesar cipher rotation followed by run-length encoding.
 
 ---
