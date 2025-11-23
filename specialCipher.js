@@ -1,3 +1,5 @@
+// Q1 – Special Cipher
+
 function specialCipher(str, rotation) {
     // Step 1: Apply Caesar cipher
     let caesarResult = '';
